@@ -24,6 +24,8 @@ echo -e "Hello\nWorld"
 # Syntax : echo -e "\e[COLmMESSAGE\e[0m"
 echo -e "\e[31mRed Text\e[0m"
 echo Normal Text
+echo -e "\e[32mGreen Text\e[0m"
+
 
 
 # More reference : https://misc.flogisoft.com/bash/tip_colors_and_formatting
